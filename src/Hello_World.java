@@ -4,7 +4,7 @@ public class Hello_World {
 
     // doing cool job
 
-    // awsame work 3 is done and ready to be commited
+    // awesome work 3 is done and ready to be committed
     // and ready to be pushed tp remote repository
 
 
